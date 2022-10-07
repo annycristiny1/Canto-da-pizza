@@ -7,14 +7,14 @@ background-color:black
 Estilizar o título principal do seu site:
  h1{
 color:#FF0000 ;
-font-family:read-write ;
+font-family:#A9A9A9 ;
 background:green ;
 }
 
 Estilizar os parágrafos:
 p{
-color:read-write ;
-font-family: :read-only;
+color:#FF00FF;
+font-family: :#A9A9A9;
 font-size:arial ;
 background:red ;
 }
