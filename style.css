@@ -4,7 +4,6 @@ body{
 background-color:rgba(129, 129, 129, 0.979)
 }
 
-
  h1{
 color: ;
 font-family: arial ;
@@ -16,4 +15,7 @@ color:;
 font-family:arial ;
 font-size:arial ;
 background: ;
+}
+#pizzas{
+    width: 100%;
 }
