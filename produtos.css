@@ -1,12 +1,12 @@
 
 body{
     
-background-color:rgb(122, 0, 0) ;
+background-color:rgb(101, 0, 0) ;
 }
 
 
  h1{
-color: white;
+color: rgb(0, 0, 0);
 font-family: ;
 background: ;
 text-align: center;
@@ -14,7 +14,7 @@ text-align: center;
 
 
 p{
-color: white;
+color: rgb(0, 0, 0);
 font-family: ;
 font-size: 30px;
 background: ;
